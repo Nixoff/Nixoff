@@ -17,12 +17,11 @@ Currently improving my tecnhical skills, specially with Javascript, Angular and 
 
 📚 Currently studying: HTML, CSS, Javascript and Angular <br>
 
-🧛‍♂️ Currently building a my personal site (under construction...) - [NixOFF Portfolio](http://nixoff.ga) 
+🧛‍♂️ Currently building a my personal site (under construction...) - [NixOFF Portfolio](https://nixoffdev.ga/) 
 
 📫 Reach me: gabadev48@gmail.com
 
 ### Find me elsewhere 🌎
 
-🚀 [Site](http://nixoff.ga) <br>
-🐦 [Twitter](https://twitter.com/_Gabrilho) <br>
+🚀 [Site](https://nixoffdev.ga/) <br>
 📸 [Instagram](https://www.instagram.com/gabriel48.js/)
